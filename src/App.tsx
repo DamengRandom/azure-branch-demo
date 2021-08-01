@@ -9,7 +9,7 @@ function App() {
           Setup for Azure pipeline ~~
         </p>
         <p>Created Main branch</p>
-        <p>Created feature-1 branch and will merge it into main branch</p>
+        <p>Created feature-1-4 branch and will merge it into main branch (To prove specific branch deployment is working properly ~)</p>
       </header>
     </div>
   );
